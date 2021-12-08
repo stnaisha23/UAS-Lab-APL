@@ -1,6 +1,5 @@
-Nama  : Siti Nur Aisha
-NPM   : 1908107010004
-Kelas : A
+Nama : Siti Nur Aisha |
+NPM : 1908107010004
 
 Penjelasan Studi Kasus
 ======================
